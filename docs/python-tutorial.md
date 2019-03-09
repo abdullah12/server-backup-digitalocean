@@ -88,7 +88,6 @@ for in rage(5)
 ```
 
 # import
-```
 functions.py
 ```
 def square(x):
